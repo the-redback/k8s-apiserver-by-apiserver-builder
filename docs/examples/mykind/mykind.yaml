@@ -1,0 +1,7 @@
+note: MyKind Example
+sample: |
+  apiVersion: batch.iammaruf.com/v1
+  kind: MyKind
+  metadata:
+    name: mykind-example
+  spec:
