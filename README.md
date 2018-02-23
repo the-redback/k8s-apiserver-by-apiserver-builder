@@ -14,7 +14,7 @@ $ apiserver-boot run local-minikube
 
 To test create CRD
 
-``console
+```console
 $ kc create -f sample/mykind.yaml
 mykind "mykind-example" created
 ```
